@@ -1,6 +1,6 @@
 {
-  "name": "rewards",
-  "version": "1.0.2",
+  "name": "buy-together",
+  "version": "1.0.0",
   "scripts": {
     "test": "vtex-test-tools test"
   },
